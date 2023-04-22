@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Phone Auth</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We Will Send you an one Time Password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_1234567890">Enter Your Number</string>
+    <string name="_91">India(+91)-</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">VERIFY</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">An OTP (One-Time Password) authentication app is a mobile application that generates unique passwords or codes that are valid for only one login session or transaction. These passwords or codes are used in addition to a user\'s regular password for added security, particularly during online transactions, such as logging into a bank account or making a purchase.
+
+        To use an OTP authentication app, a user typically needs to register and link their account to the app by scanning a QR code or manually entering a code provided by the app. Once the account is linked, the app generates a new OTP code every few seconds, which the user can use to authenticate their login or transaction.
+
+        OTP authentication apps typically use a time-based algorithm that creates unique codes based on the current time and a shared secret key between the app and the user\'s account. This means that the code changes frequently and can only be used once, making it more difficult for hackers to intercept and use the code.
+
+        Popular examples of OTP authentication apps include Google Authenticator, Microsoft Authenticator, and Authy. These apps are available for free on the App Store and Google Play Store, and are often used in conjunction with two-factor authentication (2FA) to provide an extra layer of security for online accounts.</string>
+</resources>
